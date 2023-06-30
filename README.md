@@ -1,0 +1,1 @@
+1. SkeletonUI template. Follow general svelte + skeletonUI installation.
