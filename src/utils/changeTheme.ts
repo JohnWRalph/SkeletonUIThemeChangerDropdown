@@ -1,12 +1,7 @@
 function changeTheme(theme) {
 
    
-  
-    // console.log(newTheme)
-    // const storedTheme = localStorage.getItem('theme');
     if (theme === 'skeleton') {
-        
-        
         localStorage.setItem('theme', 'skeleton')
         document.body.setAttribute('data-theme', 'skeleton');
         console.log(theme)

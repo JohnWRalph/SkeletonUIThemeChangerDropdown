@@ -1,9 +1,5 @@
 
-import { setModeCurrent } from "@skeletonlabs/skeleton";
-
 import "../app.postcss";
-import { onMount } from "svelte";
-// import "./styles.css";
 
 
 async function getStoredTheme() {
